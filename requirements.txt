@@ -1,0 +1,10 @@
+streamlit ==1.30.0
+streamlit-option-menu==0.3.12
+streamlit-extras==0.4.0
+pandas ==2.1.4
+numpy ==1.26.4
+plotly ==5.18.0
+plotly-express ==0.4.1
+pymongo ==4.7.0
+matplotlib ==3.5.1
+seaborn ==0.13.2

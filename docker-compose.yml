@@ -1,0 +1,10 @@
+version: '3.3'
+
+services:
+  streamlit-app:
+    image: python:3.10
+    command: bash -c "cd Airbnb_data_analysis/ && pip install -r requirements.txt  && streamlit run app.py "
+    volumes:
+      - ../Airbnb_Analysis:/Airbnb_data_analysis
+    ports:
+      - "8501:8501"
