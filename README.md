@@ -53,7 +53,7 @@ docker compose-up
 
 <div style="display: flex;margin-bottom: 20px;">
     <img src="img/data1.png" alt="Basic Insight1" style="width: 45%; margin-right: 10px;" />
-    <img src="simg/data2.png" alt="Basic Insight2" style="width: 45%; margin-left: 10px;" />
+    <img src="img/data2.png" alt="Basic Insight2" style="width: 45%; margin-left: 10px;" />
 </div>
 
 ## **Project Structure**
